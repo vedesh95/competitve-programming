@@ -1,0 +1,22 @@
+1.ways to copy a vecyor
+// Initializing vector with values 
+    vector<int> vect1{1, 2, 3, 4}; 
+  
+    // Declaring another vector 
+    vector<int> vect2; 
+  
+    // Copying vector by assign function 
+    vect2.assign(vect1.begin(), vect1.end()); 
+
+ // Rotate vector left 3 times. 
+    int rotL=3; 
+  
+    // std::rotate function 
+    std::rotate(vec1.begin(), vec1.begin()+rotL, vec1.end()); 
+Count distinct elements in every window
+Equilibrium point
+Possible words from Phone digits
+Maximum of all subarrays of size k
+Longest Common Increasing Subsequence
+magnet
+super primes

@@ -1,0 +1,6 @@
+1.Shortest path from 1 to n
+https://practice.geeksforgeeks.org/problems/shortest-path-from-1-to-n/0
+2.Negative weight cycle
+https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0
+3.detect cycle in undirected graph
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
