@@ -1,1 +1,0 @@
-this folder contains all the codes written on book but yet to be solved on competitive programming. 
