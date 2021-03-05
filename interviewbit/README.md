@@ -1,4 +1,4 @@
-## Boiler plate for lower bound and uppper bound
+## Boiler plate for lower bound and uppper bound  
 int lbs(const vector<int> &arr,int l,int r,int x){
     if(l>r) return -1;
     long long int mid=(l+r)/2;
