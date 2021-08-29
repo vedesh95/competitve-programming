@@ -1,2 +1,0 @@
-https://www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/
-prims -https://www.geeksforgeeks.org/prims-mst-for-adjacency-list-representation-greedy-algo-6/
